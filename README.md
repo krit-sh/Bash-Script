@@ -29,9 +29,7 @@ Step-p Install gnome-software-packagekit-plugin To fix the Software app not work
 
 Step-1 Open your Terminal
 
-Step-2 Clone the repository or Download it
-
-	   To Clone it type 
+Step-2 Clone the repository or Download it To Clone it type 
 	   
 	   git clone https://github.com/Ritesh-Kumarr/Bash-Script.git
 	   
