@@ -3,6 +3,7 @@ This script is basic bash script to reduce the tedious proess of post installati
 
 Description of the Script
 Step-1 Update the system
+
 Step-2 Install BlackArch Linux on top of Arch Linux or you can say it will enable AUR (Arch User Repository) 
 Step-3 Install gnome-tweaks (A tool to customise your apprearence on Gnome Desktop Environment)
 Step-4a Install yay Package Manager
