@@ -31,7 +31,9 @@ Step-1 Open your Terminal
 
 Step-2 Clone the repository or Download it
 
-	   To Clone it type git clone https://github.com/Ritesh-Kumarr/Bash-Script.git
+	   To Clone it type 
+	   
+	   git clone https://github.com/Ritesh-Kumarr/Bash-Script.git
 	   
 Step-3 Run the command 
 
