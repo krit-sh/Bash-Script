@@ -1,7 +1,7 @@
 # Bash-Script
 
-IN THIS REPOSITORY YOU WILL FIND DIFFERENT FOLDERS OR BRANCHES WHICH INCLUDE DIFFERENT BASH-SCRIPTS WHICH I HAVE WRITTEN.
+In this repository you will find different folders or branches which include diiferent bash-scripts which I have written. 
 
-TO CLONE THIS REPOSITORY OPEN YOUR TERMINAL AND TYPE
+To clone this repository open your terminal and type
   
     git clone https://github.com/Ritesh-Kumarr/Bash-Script.git
