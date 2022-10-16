@@ -1,6 +1,6 @@
 # Bash-Script
 
-In this repository you will find different folders or branches which include diiferent bash-scripts which I have written. 
+In this repository you will find different folders or branches which include different bash-scripts which I have written. 
 
 To clone this repository open your terminal and type
   
