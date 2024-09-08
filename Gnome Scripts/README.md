@@ -1,7 +1,3 @@
-Here's the revised version with improved grammar and structure:
-
----
-
 # Bash-Script
 
 This is a basic bash script designed to simplify the tedious post-installation process of Arch Linux.
