@@ -47,7 +47,3 @@ bash arch.sh
 Note: This script is designed to work for the GNOME Desktop Environment only!
 
 Important: During the script execution, type `Y/y` to install a package or proceed to the next step, and type `N/n` to skip the installation or step.
-
---- 
-
-This version improves clarity and readability while maintaining the original meaning.
