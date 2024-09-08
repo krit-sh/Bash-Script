@@ -37,7 +37,7 @@ Step 1: Open your terminal.
 Step 2: Clone the repository or download it. To clone it, type:
 
 ```
-git clone https://github.com/Ritesh-Kumarr/Bash-Script.git
+git clone https://github.com/krit-sh/Bash-Script.git
 ```
 
 Step 3: Run the command:
