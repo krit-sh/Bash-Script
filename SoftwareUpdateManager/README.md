@@ -1,5 +1,3 @@
-Here’s a `README.md` for your **Simplified Software Update Manager Script**:
-
 ```md
 # Simplified Software Update Manager Script
 
